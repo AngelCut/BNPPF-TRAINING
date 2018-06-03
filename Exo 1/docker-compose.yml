@@ -1,0 +1,5 @@
+compilejava:
+ image: compilejava
+ hostname: compilateur
+ volumes:
+  - C:\Users\Angelo\Desktop\Docker Toolbox\Exos\BNPPF-TRAINING\Exo 1\java-src:/app/java
